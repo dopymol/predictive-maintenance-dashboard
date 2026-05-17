@@ -52,6 +52,7 @@ Scikit-learn
 XGBoost
 SHAP
 Streamlit
+
 Machine Learning Workflow
 1. Data Preprocessing
 cleaned raw sensor data
@@ -124,9 +125,11 @@ Predictive-Maintenance-Dashboard/
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
+
 How to Run Locally
 Clone Repository
 git clone https://github.com/YOUR_USERNAME/predictive-maintenance-dashboard.git
+
 Install Dependencies
 pip install -r requirements.txt
 Run Streamlit App
@@ -148,7 +151,6 @@ reduce maintenance costs
 prevent unexpected machine failures
 improve operational efficiency
 optimize maintenance scheduling
-
 Author
 
 Developed as an end-to-end Machine Learning capstone project focused on industrial AI and predictive analytics.
