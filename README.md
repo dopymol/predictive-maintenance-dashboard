@@ -14,7 +14,6 @@ The goal of this project is to predict whether an engine is approaching failure 
 - Visualizes engine health through an interactive Streamlit dashboard
 - Explains predictions using SHAP feature importance
 
-![dashboard board](dashboard.png)
 ---
 
 ## Tech Stack
